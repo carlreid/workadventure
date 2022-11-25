@@ -23,7 +23,6 @@ linux:
 win:
     icon: "assets/icons/logo.ico"
     artifactName: "${productName}-${version}-setup.${ext}"
-
 nsis:
     oneClick: false
 
